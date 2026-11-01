@@ -1,0 +1,11 @@
+Model Information:
+* title:	Star Wars Separatist Core Ship
+* source:	https://sketchfab.com/3d-models/star-wars-separatist-core-ship-0d829115bb4d472da5d05cdf529b6694
+* author:	ThrillDaWill (https://sketchfab.com/ThrillDaWill)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Star Wars Separatist Core Ship" (https://sketchfab.com/3d-models/star-wars-separatist-core-ship-0d829115bb4d472da5d05cdf529b6694) by ThrillDaWill (https://sketchfab.com/ThrillDaWill) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

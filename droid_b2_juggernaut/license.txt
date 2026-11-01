@@ -1,0 +1,11 @@
+Model Information:
+* title:	Droid B2 Juggernaut
+* source:	https://sketchfab.com/3d-models/droid-b2-juggernaut-e55c8a6e3b3146a9b6301effc66cbd01
+* author:	darman_clone (https://sketchfab.com/gsilvacordova)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Droid B2 Juggernaut" (https://sketchfab.com/3d-models/droid-b2-juggernaut-e55c8a6e3b3146a9b6301effc66cbd01) by darman_clone (https://sketchfab.com/gsilvacordova) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

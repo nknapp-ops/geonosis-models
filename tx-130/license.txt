@@ -1,0 +1,11 @@
+Model Information:
+* title:	TX-130
+* source:	https://sketchfab.com/3d-models/tx-130-484ce2d217074e289fcdc996b03f8b90
+* author:	dr.lowpol (https://sketchfab.com/dr.lowpol)
+
+Model License:
+* license type:	CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)
+* requirements:	Author must be credited. Modified versions must have the same license. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TX-130" (https://sketchfab.com/3d-models/tx-130-484ce2d217074e289fcdc996b03f8b90) by dr.lowpol (https://sketchfab.com/dr.lowpol) licensed under CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)

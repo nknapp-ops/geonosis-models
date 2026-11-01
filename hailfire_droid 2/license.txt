@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hailfire Droid
+* source:	https://sketchfab.com/3d-models/hailfire-droid-32248871657243ef8772aa80206c5f55
+* author:	Pedro Valim (https://sketchfab.com/CaptainRex221)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hailfire Droid" (https://sketchfab.com/3d-models/hailfire-droid-32248871657243ef8772aa80206c5f55) by Pedro Valim (https://sketchfab.com/CaptainRex221) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

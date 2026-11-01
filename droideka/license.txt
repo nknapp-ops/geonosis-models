@@ -1,0 +1,11 @@
+Model Information:
+* title:	Droideka
+* source:	https://sketchfab.com/3d-models/droideka-9a1f91e4c4934386820542a7260776d4
+* author:	Marcus Olsen (https://sketchfab.com/Dekustikk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Droideka" (https://sketchfab.com/3d-models/droideka-9a1f91e4c4934386820542a7260776d4) by Marcus Olsen (https://sketchfab.com/Dekustikk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

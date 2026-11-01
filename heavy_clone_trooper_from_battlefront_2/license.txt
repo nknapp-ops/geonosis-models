@@ -1,0 +1,11 @@
+Model Information:
+* title:	Heavy Clone Trooper From Battlefront 2
+* source:	https://sketchfab.com/3d-models/heavy-clone-trooper-from-battlefront-2-800d6a308f404243960cec9619d9d66e
+* author:	clone_trooper (https://sketchfab.com/clone_trooper)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Heavy Clone Trooper From Battlefront 2" (https://sketchfab.com/3d-models/heavy-clone-trooper-from-battlefront-2-800d6a308f404243960cec9619d9d66e) by clone_trooper (https://sketchfab.com/clone_trooper) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

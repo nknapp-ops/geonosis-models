@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mace Windu
+* source:	https://sketchfab.com/3d-models/mace-windu-ba2eaba7ff6b45c89c1b2c4919e46880
+* author:	Mind Mulch for The Masses (https://sketchfab.com/mindmulchforthemasses)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mace Windu" (https://sketchfab.com/3d-models/mace-windu-ba2eaba7ff6b45c89c1b2c4919e46880) by Mind Mulch for The Masses (https://sketchfab.com/mindmulchforthemasses) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
