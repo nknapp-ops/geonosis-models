@@ -1,0 +1,11 @@
+Model Information:
+* title:	Republic Commando
+* source:	https://sketchfab.com/3d-models/republic-commando-30959b9c2ddb475085eaccdcb00e2dd8
+* author:	Abel (https://sketchfab.com/abel76)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Republic Commando" (https://sketchfab.com/3d-models/republic-commando-30959b9c2ddb475085eaccdcb00e2dd8) by Abel (https://sketchfab.com/abel76) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

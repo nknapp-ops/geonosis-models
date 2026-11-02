@@ -1,0 +1,11 @@
+Model Information:
+* title:	Star Wars DC-15a
+* source:	https://sketchfab.com/3d-models/star-wars-dc-15a-50739874329542308e289fd6457cddda
+* author:	LarsH. (https://sketchfab.com/LarsH.)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Star Wars DC-15a" (https://sketchfab.com/3d-models/star-wars-dc-15a-50739874329542308e289fd6457cddda) by LarsH. (https://sketchfab.com/LarsH.) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
