@@ -1,0 +1,11 @@
+Model Information:
+* title:	RPS-6 (Clone Trooper Rocket Launcher)
+* source:	https://sketchfab.com/3d-models/rps-6-clone-trooper-rocket-launcher-a6e42985f2534875b513347ed0a41f6c
+* author:	David Short (https://sketchfab.com/davidshort)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "RPS-6 (Clone Trooper Rocket Launcher)" (https://sketchfab.com/3d-models/rps-6-clone-trooper-rocket-launcher-a6e42985f2534875b513347ed0a41f6c) by David Short (https://sketchfab.com/davidshort) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

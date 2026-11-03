@@ -1,0 +1,11 @@
+Model Information:
+* title:	Phase I Clone Captain
+* source:	https://sketchfab.com/3d-models/phase-i-clone-captain-d37a7179fb764e04980f19d3430c74e4
+* author:	Abel (https://sketchfab.com/abel76)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Phase I Clone Captain" (https://sketchfab.com/3d-models/phase-i-clone-captain-d37a7179fb764e04980f19d3430c74e4) by Abel (https://sketchfab.com/abel76) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
